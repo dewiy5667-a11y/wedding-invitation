@@ -28,7 +28,7 @@ const WEDDING_CONFIG = {
     filePath: "assets/images/wedding-music.mp3" // Ganti dengan path file MP3 Anda
   },
   // Isikan URL Web App setelah melakukan deploy Google Apps Script
-  appsScriptUrl: "https://script.google.com/macros/s/AKfycbwCWi4Xjjd7IgEt6-b2maJckUuVJnb-4kO4l0c446JEoQWcvw1Auo4RpYWGdN2akkpAhA/exec",
+  appsScriptUrl: "https://script.google.com/macros/s/AKfycbyBk809ODwrDOQ7-7nbz-PjGmnIjxpMzhi-nBjbyfYm9FDg2YQ7Kj2wOTlW85fGChHrEQ/exec",
   
   // Konfigurasi WhatsApp (Isi nomor jika sudah ada, format: 628xxxxxxxxxx)
   whatsappNumber: "",
